@@ -1,0 +1,14 @@
+#server 端口号设置
+server:
+  port: 8081
+
+
+
+#注册中心设置，server本身不被发现
+eureka:
+  client:
+    register-with-eureka: false #是否将eureka自身作为应用注册到eureka注册中心
+    fetch-registry: false      #为true时，可以启动，但报异常：Cannot execute request on any known server
+  #server:
+    #wait-time-in-ms-when-sync-empty: 0
+

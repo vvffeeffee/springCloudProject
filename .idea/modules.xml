@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CloudConfig/CloudConfig.iml" filepath="$PROJECT_DIR$/CloudConfig/CloudConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudConfig-repo/CloudConfig-repo.iml" filepath="$PROJECT_DIR$/CloudConfig-repo/CloudConfig-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CloudConfigClient/CloudConfigClient.iml" filepath="$PROJECT_DIR$/CloudConfigClient/CloudConfigClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudProject.iml" filepath="$PROJECT_DIR$/springCloudProject.iml" />
+    </modules>
+  </component>
+</project>
